@@ -78,3 +78,4 @@ Planned future work (see main README's project status):
 - GitHub Actions CI extended to the frontend and to Docker image builds
 - Additional test coverage (controllers, repositories)
 - Configurable, per-server alert thresholds
+::
